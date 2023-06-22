@@ -14,6 +14,8 @@ class NumberArray {
   }
 }
 
+console.log("test")
+
 const numbers = [2, -4, 6, -8, 10, -12];
 const numberArray = new NumberArray(numbers);
 const positiveSum = numberArray.getPositiveSum();
