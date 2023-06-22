@@ -13,7 +13,7 @@ Please follow the steps below to complete the task:
 3. Implement the `getPositiveSum` function using ES6 syntax and comment out the old code.
 4. Test the function using the provided example input and verify that it returns the correct output.
 5. Commit your changes (please use clear and descriptive commit messages) and push them.
-6. Create a pull request with us, using a clear and descriptive title for the pull request.
+6. Create a pull request to the main repository, using a clear and descriptive title for the pull request.
 
 ## Extra Bonuses
 
