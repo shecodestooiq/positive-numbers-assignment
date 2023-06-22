@@ -1,4 +1,4 @@
-# Positive Number Sum
+# Positive Numbers Assignment
 
 Dear students,
 
