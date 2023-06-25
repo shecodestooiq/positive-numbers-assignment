@@ -31,5 +31,6 @@ getPositiveSum = () => {
   }
   return sum;
 }
+module.exports = getPositiveSum;
 const numbers = [2, -4, 6, -8, 10, -12];
 console.log(getPositiveSum(numbers));
